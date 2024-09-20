@@ -2,8 +2,8 @@
 
 
 ## Descricao
-Este projeto foi desenvolvido como parte das atividades do curso de Análise e Desenvolvimento de Sistemas, que estou cursando pelo SENAC. 
-O objetivo principal é criar um sistema de gerenciamento de podcasts, incluindo funcionalidades de cadastro e controle de acesso com diferentes níveis de permissão.
+Este projeto foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas pelo Senac Ead.
+A aplicação tem como objetivo registrar aferimentos de pressão arterial e exportar os dados em formato CSV para facilitar o acompanhamento médico.
 
 A aplicação é voltada para registrar Aferimentos de pressões e exportar em um arquivo CSV.
 
